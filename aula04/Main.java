@@ -68,6 +68,7 @@ public class Main {
     System.out.println("-------------------------");
 
     Ninja terceiroNinja = listaDeNinjas.get(2);
+    
     System.out.println(terceiroNinja);
 
 
